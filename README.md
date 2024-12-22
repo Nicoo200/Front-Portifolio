@@ -6,6 +6,7 @@ Este repositório contém o código-fonte do meu portfólio pessoal, com a pági
 
 ---
 ![Portifolio imagem](https://github.com/user-attachments/assets/a2526420-6fd3-410c-a09a-ea97ca46b49f)
+
 ---
 
 ## Objetivo
